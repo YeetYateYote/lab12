@@ -1,8 +1,8 @@
 package trees;
 
-import java.io.IOException;
+//import java.io.IOException;
 
-public class TreeException extends IOException
+public class TreeException extends Exception
 {
 	public TreeException(String s)
 	{
